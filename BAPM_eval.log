@@ -27,3 +27,6 @@ PID verification and upload: 5.551ms
 
 PID generation or update: 3.681ms
 PID verification and upload: 5.564ms
+
+PID generation or update **average**: 3.595ms
+PID verification and upload **average**: 5.4097ms
